@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Highlights
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hassamkazmi&theme=onedark&no-frame=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassamkazmi&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/syed-hassam9172  
 - 🌍 Portfolio: https://hassamdev.tech  
