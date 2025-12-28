@@ -29,11 +29,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hassamkazmi&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkazmi&layout=compact&theme=tokyonight&cache_seconds=86400" />
+## 📊 GitHub Highlights
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hassamkazmi&theme=onedark&no-frame=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassamkazmi&theme=tokyonight)
 
 ---
 
