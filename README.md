@@ -30,15 +30,17 @@
 ---
 
 ## 📊 GitHub Stats
-![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassamkazmi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkazmi&layout=compact&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hassamkazmi&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkazmi&layout=compact&theme=tokyonight&cache_seconds=86400" />
 
 ---
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/syed-hassam9172  
 - 🌍 Portfolio: https://hassamdev.tech  
-- 📍 Location: Karachi, Pakistan  
+- 📍 Location: Islamabad, Pakistan  
 
 ---
 
