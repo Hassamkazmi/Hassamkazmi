@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Syed Hassam Kazmi 👋
 
-<!--
-**Hassamkazmi/Hassamkazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React • Node.js • React Native  
+🎯 Focused on building scalable, high-performance web & mobile applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 💡 Strong creative & analytical mindset  
+- 🧩 Passionate about clean UI, performance & user experience  
+- 🌱 Always learning and improving my craft  
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, JavaScript, Chakra UI, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Mobile:** React Native  
+**Tools:** Git, GitHub, REST APIs  
+
+---
+
+## 📌 Featured Projects
+- 🔹 **Todo Chakra UI** – React todo app built with Chakra UI  
+- 🔹 **Multilanguage App** – Dynamic language switching in React  
+- 🔹 **Lazy Loading in React** – Performance optimization using lazy loading  
+
+👉 Check out my repositories for more projects.
+
+---
+
+## 📊 GitHub Stats
+![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassamkazmi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkazmi&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/syed-hassam9172  
+- 🌍 Portfolio: https://hassamdev.tech  
+- 📍 Location: Karachi, Pakistan  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
